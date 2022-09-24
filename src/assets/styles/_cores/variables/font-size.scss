@@ -1,0 +1,15 @@
+$font-size-base-pc: calc((10vw / 1440) * 100);  // calc((10 / 1440) * 100) + vw
+$font-size-base-sp: calc((10vw / 320) * 100); // calc((10 / 320) * 100) + vw
+
+$font-size-default-pc: 1.6rem;
+$font-size-default-sp: 1.4rem;
+$font-size-rem: 10px;
+
+$font-weight-300: 300;
+$font-weight-400: 400;
+$font-weight-500: 500;
+$font-weight-600: 600; // semibold
+$font-weight-700: 700; // bold
+
+$font-family-san-serif-1: 'Open Sans', sans-serif;
+$font-family-san-serif-2: 'Prompt', sans-serif;

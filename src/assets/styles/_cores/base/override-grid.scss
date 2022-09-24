@@ -1,0 +1,11 @@
+$grid-breakpoints: (
+  xs: 0,
+  sm: 768px
+)!default;
+
+$container-max-widths: (
+  sm: rem(1230),
+);
+
+$grid-gutter-width: rem(30);
+$grid-gutter-width-sp: rem(20);

@@ -1,0 +1,20 @@
+@import './../../assets/styles/_cores/resources.scss';
+.header {
+  border-bottom: rem(1) solid $gray-2;
+  padding: rem(10) 0;
+  &__content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  &__logo {
+    display: block;
+    max-width: rem(200);
+  }
+  &__buger {
+    display: block;
+  }
+  .icon-hambuger {
+    font-size: rem(24);
+  }
+}
